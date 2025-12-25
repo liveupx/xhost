@@ -2,7 +2,7 @@
 The developer platform for modern web applications. Deploy instantly, scale infinitely.
 
 <p align="center">
-  <img src="docs/screenshots/xhost.png" alt="XHost Logo">
+  <img src="xhost.png" alt="XHost Logo">
 </p>
 
 <h1 align="center">XHost</h1>
