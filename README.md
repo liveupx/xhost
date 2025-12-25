@@ -1,4 +1,4 @@
-# xhost
+# www.xhost.live
 The developer platform for modern web applications. Deploy instantly, scale infinitely.
 
 <p align="center">
