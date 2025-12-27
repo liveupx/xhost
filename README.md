@@ -7,19 +7,15 @@
 </p>
 
 <p align="center">
-  <img src="./xhost.png" alt="XHost Logo" width="120" />
+  <img src="./xhost.png" alt="XHost Logo" />
 </p>
 
 ---
 
 ## 🎥 Video Preview
 
-Watch XHost in action:
+[video](https://www.youtube.com/watch?v=aULejltgHic)
 
-> **Video file:** `./xhost.mov`  
-> (Playable directly from this repository)
-
----
 
 <h1 align="center">XHost</h1>
 
